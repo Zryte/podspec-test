@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-    s.name         = "AmitySDK"
+    s.name         = "AAmitySDK"
     s.version      = "6.2.0"
     s.summary      = "An SDK for messaging, social & live video platform provided by Amity."
     s.description  = <<-DESC
